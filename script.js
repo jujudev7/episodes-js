@@ -7,9 +7,9 @@ class Episode {
 }
 
 let episodes = [
-  new Episode('Dark Beginnings', 45, true),
-  new Episode('The Mystery Continues', 45, false),
-  new Episode('An Unexpected Climax', 60, false)
+  new Episode('Once upon a time...', 45, true),
+  new Episode('The Revenge', 45, false),
+  new Episode('Why always me ?', 60, false)
 ];
 
 // Add logic here
